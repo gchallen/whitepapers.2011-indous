@@ -87,7 +87,7 @@
 \begin{minipage}[t]{0.492\textwidth}
 \vspace{0pt}
 \raggedleft
-{\small \scshape Indo-US Workshop\\
+{\small \scshape Indo-US PC3 Workshop\\
 Whitepaper\\
 \today}
 \end{minipage}
